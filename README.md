@@ -20,3 +20,7 @@ Este repositório serve como um portifólio das práticas realizadas durante a d
 Alterações simuladas no readme.md.
 
 
+Correções realizadas no ramo fixes.
+
+
+
