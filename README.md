@@ -14,3 +14,9 @@ Análise e correção de falhas no software
 Objetivo:
 Este repositório serve como um portifólio das práticas realizadas durante a disciplina, documentando o aprendizado e a aplicação das principais técnicas de teste e manutenção de software.
 
+
+
+
+Alterações simuladas no readme.md.
+
+
