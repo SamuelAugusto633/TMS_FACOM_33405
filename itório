@@ -1,0 +1,20 @@
+[1mdiff --git a/reparo.md b/reparo.md[m
+[1mindex cb4e16d..6f01348 100644[m
+[1m--- a/reparo.md[m
+[1m+++ b/reparo.md[m
+[36m@@ -1,14 +1,2 @@[m
+[31m-# Orientações sobre o uso do comando git commit --amend[m
+[32m+[m[32mPrestes a perder meus dados....[m
+ [m
+[31m-O comando `git commit --amend` é usado para modificar o último commit feito. Isso é útil para:[m
+[31m-[m
+[31m-- Corrigir mensagens de commit.[m
+[31m-- Adicionar arquivos que foram esquecidos.[m
+[31m-[m
+[31m-## Uso:[m
+[31m-[m
+[31m-Para usar este comando, siga os passos:[m
+[31m-[m
+[31m-1. Faça as alterações desejadas nos arquivos.[m
+[31m-2. Adicione as alterações à área de stage com `git add <arquivo>`.[m
+[31m-3. Execute `git commit --amend`. Isso abrirá o editor para modificar a mensagem do commit.[m
