@@ -12,5 +12,5 @@ Utilização de controle de versão (Git) e integração contínua (CI)
 Análise e correção de falhas no software
 
 Objetivo:
-Este repositório serve como um portfólio das práticas realizadas durante a disciplina, documentando o aprendizado e a aplicação das principais técnicas de teste e manutenção de software.
+Este repositório serve como um portifólio das práticas realizadas durante a disciplina, documentando o aprendizado e a aplicação das principais técnicas de teste e manutenção de software.
 
