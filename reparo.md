@@ -12,3 +12,6 @@ Para usar este comando, siga os passos:
 1. Faça as alterações desejadas nos arquivos.
 2. Adicione as alterações à área de stage com `git add <arquivo>`.
 3. Execute `git commit --amend`. Isso abrirá o editor para modificar a mensagem do commit.
+
+
+nova modificação 2024
