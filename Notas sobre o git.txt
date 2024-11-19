@@ -1,3 +1,7 @@
 git principal onde foi feito a maioria das atividades: https://github.com/SamuelAugusto633/TMS_FACOM_33405
 
 git extra que foi usado para resolver algumas atividades: https://github.com/SamuelAugusto633/meu_remoto 
+
+
+
+O vídeo está no Git também, em uma pasta chamada 'video'. Lá você também encontra o PDF com a Tabela das atividades.
